@@ -1,4 +1,4 @@
-PS1
+Configs
 ===
 
-The simple PS1 value I use for my terminal.
+The configurations I have set on my computer to make life easier.
